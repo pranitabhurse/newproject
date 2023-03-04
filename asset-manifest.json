@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a0161679.css",
+    "main.js": "/static/js/main.a2391788.js",
+    "static/js/787.33282f59.chunk.js": "/static/js/787.33282f59.chunk.js",
+    "static/media/gift.png": "/static/media/gift.532942537a03b5866839.png",
+    "static/media/api-doc-bg.png": "/static/media/api-doc-bg.a079bd6cd650313a0354.png",
+    "static/media/mode-laoptop.png": "/static/media/mode-laoptop.c962206ae8308739a3ac.png",
+    "static/media/SourceSansPro-Regular.ttf": "/static/media/SourceSansPro-Regular.df87f53caf449a3b7572.ttf",
+    "static/media/SourceSansPro-SemiBold.ttf": "/static/media/SourceSansPro-SemiBold.f2fa8f369db189665539.ttf",
+    "static/media/SourceSansPro-Bold.ttf": "/static/media/SourceSansPro-Bold.2dec2f24e3bdf2c6862e.ttf",
+    "static/media/SourceSansPro-Light.ttf": "/static/media/SourceSansPro-Light.9bbfd7cb5e722de4b9f4.ttf",
+    "static/media/api-bg.png": "/static/media/api-bg.9214645683878452e73d.png",
+    "static/media/steps-bg.png": "/static/media/steps-bg.b4832aff461336bd7e5f.png",
+    "static/media/rupee-internation.png": "/static/media/rupee-internation.f7bce851e25e807752e5.png",
+    "static/media/services-bg.jpg": "/static/media/services-bg.cc5d4d82d6c677c32bf5.jpg",
+    "static/media/banner-image.png": "/static/media/banner-image.3b4f55fed63c0d210f5f.png",
+    "static/media/steps-right.png": "/static/media/steps-right.c3e05f5ae3e77d45ab3b.png",
+    "static/media/banner.jpg": "/static/media/banner.cc6da9415e27d0351287.jpg",
+    "static/media/choose.png": "/static/media/choose.d8b25d32458282f89bc2.png",
+    "static/media/international.jpg": "/static/media/international.0426ddf259642073b028.jpg",
+    "static/media/dashboard-bg1.png": "/static/media/dashboard-bg1.cc75bc1b035ffcf5a874.png",
+    "static/media/code.jpg": "/static/media/code.ad40fac15615900808ea.jpg",
+    "static/media/page-bg-1.jpg": "/static/media/page-bg-1.763b5adc4b3aeb7911f4.jpg",
+    "static/media/steps.png": "/static/media/steps.4d930b56c9e9245e41c5.png",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.a0161679.css.map": "/static/css/main.a0161679.css.map",
+    "main.a2391788.js.map": "/static/js/main.a2391788.js.map",
+    "787.33282f59.chunk.js.map": "/static/js/787.33282f59.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a0161679.css",
+    "static/js/main.a2391788.js"
+  ]
+}
